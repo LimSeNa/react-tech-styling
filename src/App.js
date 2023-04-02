@@ -1,9 +1,9 @@
-import SassComponent from "./chap09/SassComponent";
+import CSSModule from "./chap09/CSSModule";
 
 function App() {
     return (
         <div>
-            <SassComponent/>
+            <CSSModule/>
         </div>
     );
 }
