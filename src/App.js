@@ -1,9 +1,9 @@
-import CSSModule from "./chap09/CSSModule";
+import StyledComponent from "./chap09/StyledComponent";
 
 function App() {
     return (
         <div>
-            <CSSModule/>
+            <StyledComponent/>
         </div>
     );
 }
