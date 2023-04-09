@@ -8,6 +8,6 @@
 <br>
 
 ### ✏️ 정리
-- 이전 학습 내용 정리 : [[react-tech] repository](https://github.com/LimSeNa/react-tech)
-- 이전 hooks 학습 내용 정리 : [[react-tech-hooks] repository](https://github.com/LimSeNa/react-tech-hooks)
-- [컴포넌트 스타일링](https://ssena.notion.site/09-930c809fffd84c4a8bca56586eefa103) 
+- [컴포넌트 스타일링](https://ssena.notion.site/09-930c809fffd84c4a8bca56586eefa103)<br>
+- 이전 학습 내용 정리 : [[react-tech] repository](https://github.com/LimSeNa/react-tech)<br>
+- 이전 hooks 학습 내용 정리 : [[react-tech-hooks] repository](https://github.com/LimSeNa/react-tech-hooks)<br>
